@@ -1,11 +1,11 @@
 import React from 'react'
 
-function LogoPalette() {
+function LogoDesigns() {
   return (
     <div>
-      pallets
+      desin
     </div>
   )
 }
 
-export default LogoPalette
+export default LogoDesigns
